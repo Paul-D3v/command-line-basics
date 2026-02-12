@@ -1,0 +1,1 @@
+I am motivated to learn Node.js because it enables full-stack JavaScript development, allowing me to build scalable server-side applications using the same language i use for front-end development. Node.js's non-blocking, event-driven architecture makes it ideal for building real-time applications and APIs, which are essential skills in modern cloud computing and web development.
