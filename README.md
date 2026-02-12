@@ -43,3 +43,7 @@ projects/
 ├── about_me.txt
 └── README.md
 ```
+## Screenshots
+
+![Directory Structure](screenshots/directory-structure.png)
+![Commands Executed](screenshots/commands.png)
