@@ -45,5 +45,5 @@ projects/
 ```
 ## Screenshots
 
-![Directory Structure](screenshots/directory-structure.png)
-![Commands Executed](screenshots/commands.png)
+![Directory Structure](directory-structure.png)
+![Commands Executed](commands.png)
