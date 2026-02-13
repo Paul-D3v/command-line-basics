@@ -1,0 +1,3 @@
+My Motivation for Learning Node.js
+
+I am motivated to learn Node.js because it offers a powerful and efficient way to build scalable server-side applications using JavaScript. As someone passionate about full-stack development, mastering Node.js will enable me to use the same language across both frontend and backend, streamlining my development workflow and deepening my understanding of the entire web application stack. The vast ecosystem of npm packages, the non-blocking I/O model, and the ability to handle concurrent connections make Node.js an essential skill for modern web development. I'm excited to leverage Node.js to build real-time applications, RESTful APIs, and microservices that can handle high traffic and provide seamless user experiences.
